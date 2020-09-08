@@ -1,0 +1,56 @@
+h2{
+    color: rgba(56, 56, 155, 0.959);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    padding: 60px;
+}
+
+h2:hover{
+    color: blue;
+}
+
+.item{
+    background-color: rgb(242, 247, 246);
+    border: 1px solid green;
+    border-radius: 4px;
+    padding: 40px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    width: 270px;
+    height: 390px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.item img{
+    height: 230px;
+    width: 200px;
+}
+
+.code{
+    display: block;
+    color: black;
+    font-size: 14px;
+    margin-bottom: auto;
+}
+
+.info{
+    text-align: left;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 14px;
+    display: block;
+}
+
+.price{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(5, 138, 138);
+}
+
+button{
+    float: left;
+}
